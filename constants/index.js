@@ -340,7 +340,7 @@ export const abi = [
     name: "renderer",
     outputs: [
       {
-        internalType: "contract I3DNFTRenderer",
+        internalType: "contract ILego3DNFTRenderer",
         name: "",
         type: "address",
       },
@@ -639,4 +639,4 @@ export const abi = [
   },
 ];
 export const NFT_CONTRACT_ADDRESS =
-  "0x86f9f2b9775F3dA2D5BbfA8b8c2367F4e9363F4F";
+  "0xee871C43a413B18bBda7161E41C9474c7F793995";
