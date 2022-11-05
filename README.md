@@ -2,7 +2,7 @@
 
 ## Lego3DCar - 3DFullonchainNFT
 
-![gif 3d screen](3dfullonchain.gif)
+![gif 3d screen](opensea.gif)
 
 short sentence
 
@@ -47,6 +47,9 @@ https://testnets.opensea.io/collection/fullonchain3dnft-v2
 application url:
 
 https://lego3d-car-app.vercel.app/
+
+github contract url:
+https://github.com/sintaro/Lego3DCar-Contract
 
 etherscan contract url:
 ver 1.
