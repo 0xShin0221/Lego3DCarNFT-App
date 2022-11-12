@@ -40,6 +40,7 @@ const Home: NextPage = () => {
             >
               Roses.{" "}
             </a>
+            <p>I made this at #TokyoWeb3hackathon hosted by Akindo.</p>
             Special thanks to dom@dhof
           </p>
           <div className="alert my-8 shadow-lg">
@@ -61,7 +62,7 @@ const Home: NextPage = () => {
               <div className="text-xs">Goerli ETH is needed to MINT</div>
             </div>
             <div className="flex-none">
-              <button className="btn btn-ghost btn-sm">
+              <button className="btn-ghost btn-sm btn">
                 Görli Testnet: 0x5
               </button>
             </div>
