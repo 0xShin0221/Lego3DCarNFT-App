@@ -19,7 +19,7 @@ _Max supplied: 100000_
 Configure at Opensea:
 https://testnets.opensea.io/account
 
-https://testnets.opensea.io/collection/lego-3d-car
+https://testnets.opensea.io/collection/lego-3d-car-by-0xshin
 
 _Testnet Goerli_
 
