@@ -23,24 +23,6 @@ https://testnets.opensea.io/collection/lego-3d-car-by-0xshin
 
 _Testnet Goerli_
 
-# Akindo judge statement
-
-## 課題とアプローチ
-
-### 課題
-
-- ipfs 等の分散型ストレージは、運営元が存在する前提なのでデータの永続性は確保されない
-
-- web3 開発人材(主にスマコンを扱うブロックチェーンエンジニア)がフロントエンジニアの層に比べ少ないが、web3 のコンセプトで活躍できる土俵が色々とあるが情報としての具体性が少ない
-
-### アプローチ
-
-ベースは Roses という dom@dhof さんがブロックチェーン上にデプロイされた webGL などグラフィカルな 3D データをブラウザ上で扱うためのライブラリ three.js を参照し作成しています。
-
-これは、OSS 等のライブラリがブロックチェーン上に保存され分散的にかつ永続性を伴うことでの価値をもたらす一例に過ぎないと考えています。NFT 以外のユースケースとしても、例えば多言語翻訳などのライブラリがブロックチェーン上で保存され利用できるようにもなります。
-
-また、今回の取り組みとして Threejs ベースの 3D フルオンチェーンジェネレーターも制作できることが検証できました。ブラウザベースでインタラクティブに 3D のコーディングを書くだけで、今回の Lego Car のような 3D NFT を制作することができます。フロントエンドやクリエイティブな 3D データを扱う多くの web1,2 エンジニアが web3 とキッカケを持ち価値提供できる機会になると考え取り組みました。
-
 # Tech stacks
 
 - Smart Contract [Hardhat,Foundry,Solidity]
@@ -50,6 +32,8 @@ _Testnet Goerli_
 - Blockchain [Ethereum(Goerli)]
 
 # DeployedContract
+
+[github contract repo](https://github.com/sintaro/Lego3DCar-Contract)
 
 NFT contract:
 0x5B4C18B5c760781bAc268F14B2290Ea2783f7ed0
