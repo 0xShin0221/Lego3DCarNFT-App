@@ -142,11 +142,11 @@ const Home: NextPage = () => {
               <br />
               <a
                 className="link"
-                href="https://github.com/sintaro/Lego3DCar-Contract"
+                href="https://github.com/0xShin0221/Lego3DCar-Contract"
                 target={"_blank"}
                 rel="noreferrer"
               >
-                https://github.com/sintaro/Lego3DCar-Contract
+                https://github.com/0xShin0221/Lego3DCar-Contract
               </a>
             </div>
           </div>
